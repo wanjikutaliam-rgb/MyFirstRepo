@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Talia Mwaura, and I am learning Git and GitHub to improve my version control skills. I am excited to work through projects that teach me how to manage repositories, create branches, and collaborate using pull requests.
+
+I enjoy learning new technologies and applying them in real-world projects. This repository will serve as a place to practice my Git and GitHub skills.
